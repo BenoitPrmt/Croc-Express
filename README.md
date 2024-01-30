@@ -5,13 +5,13 @@
 <h1 align="center">🍕 Croc Express 🍔</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Raxuis/croc-express?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/BenoitPrmt/croc-express?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Raxuis/croc-express?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/BenoitPrmt/croc-express?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Raxuis/croc-express?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/BenoitPrmt/croc-express?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Raxuis/croc-express?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/BenoitPrmt/croc-express?color=56BEB8">
 </p>
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -63,7 +63,7 @@ Les technologies suivantes ont été utilisées pour ce projet :
 
 ## :white_check_mark: Requirements
 
-Avant de commencer :checkered_flag:, vous avez besoin d'avoir [Git](https://git-scm.com) installé.
+Avant de commencer :checkered_flag:, vous avez besoin d'avoir [Git](https://git-scm.com) et `composer` installés.
 
 ## :arrow_down: Importation
 
@@ -77,7 +77,7 @@ Avant de commencer :checkered_flag:, vous avez besoin d'avoir [Git](https://git-
 
 ```bash
 # Cloner le projet
-$ git clone https://github.com/Raxuis/croc-express
+$ git clone https://github.com/BenoitPrmt/Croc-Express
 
 # Y accéder
 $ cd croc-express
@@ -98,7 +98,7 @@ $ composer install
 
 Ce projet est sous license MIT. Pour plus de détails, consultez le fichier [LICENSE](LICENSE.md).
 
-Créé de tout :heart: par <a href="https://github.com/Raxuis" target="_blank">Raphaël</a> et <a href="https://github.com/BenoitPrmt" target="_blank">Benoît</a>
+Créé de tout :heart: par <a href="https://github.com/BenoitPrmt" target="_blank">Benoît</a> et <a href="https://github.com/Raxuis" target="_blank">Raphaël</a>
 
 &#xa0;
 
